@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hi-Tech\\source\\repos\\ConsoleApp2\\",
+  "WorkspaceRootPath": "D:\\project\\project\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BB050B8-6CB0-4098-9B89-C03293028995}|ConsoleApp2.csproj|c:\\users\\hi-tech\\source\\repos\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB050B8-6CB0-4098-9B89-C03293028995}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7C68985-D3BF-4D8D-BA41-938B1A5D0B8E}|ConsoleApp2.csproj|d:\\project\\project\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C68985-D3BF-4D8D-BA41-938B1A5D0B8E}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hi-Tech\\source\\repos\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "D:\\project\\project\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Hi-Tech\\source\\repos\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\project\\project\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:31:59.001Z",
+              "WhenOpened": "2024-12-17T15:59:30.189Z",
               "EditorCaption": ""
             }
           ]
